@@ -6,26 +6,32 @@ body {
     background-color: #b0d5f7;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     margin: 10px 30px;
-    padding: 10px 100px;
+    padding: 10px 130px;
     color: #043a81}
 
-li {
+footer {
+    text-align: center;}
+
+li.navi {
     display: inline; 
     padding: 15px;}
 
 main {
     background-color: #ddedfd;
     border: 2px solid #043a81;
-    padding: 0px 40px 10px 40px;}
-ul {
+    padding: 0px 80px 10px 80px;}
+
+nav {
     list-style-type: none; 
     padding: 10px 20px; 
     text-align: center;}
 
 .headings {
+    font-variant: small-caps;
     text-align: center;}
 
 .top {
     background-color: #ddedfd;
-    border: 2px solid #043a81;
+    border: 2px solid #043a81; 
+    font-variant: small-caps;
     text-align: center;}
