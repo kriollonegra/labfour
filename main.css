@@ -1,0 +1,31 @@
+a {
+    color: #043a81;
+    text-decoration: none;}
+
+body {
+    background-color: #b0d5f7;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 10px 30px;
+    padding: 10px 100px;
+    color: #043a81}
+
+li {
+    display: inline; 
+    padding: 15px;}
+
+main {
+    background-color: #ddedfd;
+    border: 2px solid #043a81;
+    padding: 0px 40px 10px 40px;}
+ul {
+    list-style-type: none; 
+    padding: 10px 20px; 
+    text-align: center;}
+
+.headings {
+    text-align: center;}
+
+.top {
+    background-color: #ddedfd;
+    border: 2px solid #043a81;
+    text-align: center;}
