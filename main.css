@@ -1,37 +1,50 @@
-a {
+a.navlink {
     color: #043a81;
     text-decoration: none;}
-
 body {
     background-color: #b0d5f7;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+    line-height: 30px;
     margin: 10px 30px;
     padding: 10px 130px;
     color: #043a81}
-
-footer {
-    text-align: center;}
-
+div.text-hold {
+    background-color: aliceblue;
+    border: 2px solid #043a81; 
+    margin: -5px 150px 10px 150px;
+    padding: 20px; font-size: 12.5px;}
+footer {text-align: center;}
+header {
+    line-height:10px; 
+    padding: 20px;}
+img.center {
+    display: block; 
+    margin: 20px auto; 
+    width: 50%;}
 li.navi {
     display: inline; 
     padding: 15px;}
-
 main {
     background-color: #ddedfd;
     border: 2px solid #043a81;
     line-height: 25px;
     padding: 0px 80px 10px 80px;
     word-spacing: 0.5px;}
-
 nav {
     list-style-type: none; 
-    padding: 10px 20px; 
+    margin: 5x; 
     text-align: center;}
-
+span.span-bold {font-weight: bold;}
+span.span-italic {font-style: italic;}
+p.samples {text-decoration: underline;}
+p.sitelink {
+    font-size: 12.5px; 
+    line-height: 5px;
+    text-align: center;}
+p.spacer {margin-bottom: 30px;}
 .headings {
     font-variant: small-caps;
     text-align: center;}
-
 .top {
     background-color: #ddedfd;
     border: 2px solid #043a81; 
