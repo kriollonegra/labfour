@@ -14,9 +14,12 @@ body {
 div.text-hold {
     background-color: #f0f8ff;
     border: 2px solid #043a81; 
-    margin: -5px 150px 10px 150px;
+    margin: -5px 150px 10px 150px; /*top right bottom left*/
     padding: 20px; font-size: 12.5px;}
 footer {text-align: center;}
+h1 {font-size: 35px;}
+h2 {font-size:25px;}
+h3 {font-size: 20px;}
 header {
     line-height:10px; 
     padding: 20px;}

@@ -17,6 +17,9 @@ div.text-hold {
     margin: auto;
     padding: 2%; font-size: 1.25vw;}
 footer {text-align: center;}
+h1 {font-size: 3.5vw;}
+h2 {font-size:2.5vw;}
+h3 {font-size: 2vw;}
 header {
     line-height:1vh; 
     padding: 2%;}
@@ -54,3 +57,5 @@ p.spacer {margin-bottom: 3vh;}
     border: 2px solid #043a81; 
     font-variant: small-caps;
     text-align: center;}
+#sitename {font-size: 3.5vw;}
+#sitetag {font-size: 2vw}
