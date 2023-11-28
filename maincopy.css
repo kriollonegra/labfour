@@ -1,3 +1,56 @@
-a {
+a.navlink {
     color: #043a81;
     text-decoration: none;}
+a:hover {color:#0f93e3}
+a.sitelink:visited {color:#0f93e3;}
+body {
+    background-color: #b0d5f7;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1.6vw;
+    line-height: 3vh;
+    margin: auto;
+    padding: 1vh 13vw;
+    color: #043a81}
+div.text-hold {
+    background-color: #f0f8ff;
+    border: 2px solid #043a81; 
+    margin: auto;
+    padding: 2%; font-size: 1.25vw;}
+footer {text-align: center;}
+header {
+    line-height:1vh; 
+    padding: 2%;}
+img.center {
+    display: block; 
+    margin: auto;; 
+    width: 50vw;}
+li.navi {
+    display: inline; 
+    padding: 1.5%;}
+main {
+    background-color: #ddedfd;
+    border: 2px solid #043a81;
+    line-height: 2.5vh;
+    padding: 0 8vw 1vh 8vw;
+    word-spacing: 0.05vw;}
+nav {
+    list-style-type: none; 
+    margin: auto; 
+    text-align: center;}
+span.span-bold {font-weight: bold;}
+span.span-italic {font-style: italic;}
+p.samples {text-decoration: underline;}
+p.spacer {margin-bottom: 3vh;}
+.headings {
+    font-variant: small-caps;
+    text-align: center;}
+.sitelink {
+    color:#043a81;
+    font-size: 1.25vw;
+    line-height: 2vh;
+    text-align: center;}
+.top {
+    background-color: #ddedfd;
+    border: 2px solid #043a81; 
+    font-variant: small-caps;
+    text-align: center;}
