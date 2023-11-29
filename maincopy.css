@@ -6,8 +6,8 @@ a.sitelink:visited {color:#0f93e3;}
 body {
     background-color: #b0d5f7;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: 1.6vw;
-    line-height: 3vh;
+    font-size: 1.038vw;
+    line-height: 2vh;
     margin: auto;
     padding: 1vh 13vw;
     color: #043a81}
@@ -15,11 +15,12 @@ div.text-hold {
     background-color: #f0f8ff;
     border: 2px solid #043a81; 
     margin: auto;
-    padding: 2%; font-size: 1.25vw;}
+    padding: 2%; 
+    font-size: 1vw;}
 footer {text-align: center;}
-h1 {font-size: 3.5vw;}
-h2 {font-size:2.5vw;}
-h3 {font-size: 2vw;}
+h1 {font-size: 2.1vw;}
+h2 {font-size: 1.5vw;}
+h3 {font-size: 0.5vw;}
 header {
     line-height:1vh; 
     padding: 2%;}
@@ -33,7 +34,7 @@ li.navi {
 main {
     background-color: #ddedfd;
     border: 2px solid #043a81;
-    line-height: 2.5vh;
+    line-height: 2.2vh;
     padding: 0 8vw 1vh 8vw;
     word-spacing: 0.05vw;}
 nav {
@@ -43,13 +44,13 @@ nav {
 span.span-bold {font-weight: bold;}
 span.span-italic {font-style: italic;}
 p.samples {text-decoration: underline;}
-p.spacer {margin-bottom: 3vh;}
+p.spacer {margin-bottom: 2vh;}
 .headings {
     font-variant: small-caps;
     text-align: center;}
 .sitelink {
     color:#043a81;
-    font-size: 1.25vw;
+    font-size: 1vw;
     line-height: 2vh;
     text-align: center;}
 .top {
@@ -57,5 +58,5 @@ p.spacer {margin-bottom: 3vh;}
     border: 2px solid #043a81; 
     font-variant: small-caps;
     text-align: center;}
-#sitename {font-size: 3.5vw;}
-#sitetag {font-size: 2vw}
+#sitename {font-size: 3vw;}
+#sitetag {font-size: 1.8vw}
