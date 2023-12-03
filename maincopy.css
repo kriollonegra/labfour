@@ -9,7 +9,8 @@ body {
     font-size: calc(2px + 1vw);
     line-height: calc(1px + 1vh);
     margin: auto;
-    padding: 5% 15%;
+    max-width: 1000px;
+    padding: 1% 15%;
     color: #043a81}
 div.text-hold {
     background-color: #f0f8ff;
