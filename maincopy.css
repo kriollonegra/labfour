@@ -1,7 +1,7 @@
 a.navlink {
     color: #043a81;
     text-decoration: none;}
-a:hover {color:#0f93e3}
+a:hover {color:#0f93e3;}
 a.sitelink:visited {color:#0f93e3;}
 body {
     background-color: #b0d5f7;
@@ -11,7 +11,7 @@ body {
     margin: auto;
     max-width: 1000px;
     padding: 1% 15%;
-    color: #043a81}
+    color: #043a81;}
 div.text-hold {
     background-color: #f0f8ff;
     border: 2px solid #043a81; 
@@ -26,8 +26,8 @@ header {
     padding: 2% 5%;}
 img.center {
     display: block; 
-    margin: auto;; 
-    width: 70%}
+    margin: auto; 
+    width: 70%;}
 li.navi {
     display: inline; 
     padding: 1.5%;}
